@@ -6,7 +6,7 @@ A 12-bit Instruction Set Architecture (ISA) is a computing framework that define
 ## Solutions Implemented:
 
   -	Logisim Design
-  -	Python Based Code for the ISA. 
+  -	C++ Code for the ISA. 
   -	Datapath Design.
   -	MIPS Instruction Set
   -	Register Table.
